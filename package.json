@@ -1,0 +1,16 @@
+{
+  "name": "discord-price-bot",
+  "version": "1.0.0",
+  "description": "บอท Discord อ่านราคาจากรูปภาพ (OCR) แล้วคำนวณราคาขาย",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "tesseract.js": "^5.1.0",
+    "sharp": "^0.33.4",
+    "dotenv": "^16.4.5"
+  }
+}
