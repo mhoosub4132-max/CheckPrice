@@ -37,7 +37,7 @@ module.exports = {
   // ใส่ categoryId ถ้าอยากให้ทำงานได้ทุกห้องที่อยู่ในหมวดหมู่นั้น (เช่น หมวด "สั่งซื้อ")
   // วิธีหา ID: เปิด Developer Mode ใน Discord (User Settings > Advanced) แล้วคลิกขวาที่ห้อง/หมวดหมู่ > Copy ID
   allowedChannelIds: [
-     "1369956078497959947",
+     "1522181957163679784",
   ],
   allowedCategoryIds: [
      "1372874894584582215",
